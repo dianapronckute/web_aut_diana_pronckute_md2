@@ -1,5 +1,5 @@
 describe('Appointment Test', () => {
-    it('Clicks on "Grid" and then checks if the item is active', () => {
+    it('Checks appointment creation', () => {
         // Visit your webpage
         cy.visit('https://katalon-demo-cura.herokuapp.com/');
 
